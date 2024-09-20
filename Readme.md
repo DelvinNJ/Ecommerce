@@ -1,4 +1,4 @@
-﻿# XML-DB-Import Project Documentation
+﻿# C# MVC Web application
 
 This repository contains code for C# MVC web application
 
